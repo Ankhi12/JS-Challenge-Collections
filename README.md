@@ -39,8 +39,7 @@ So each node can be represented by a class Node -
 
     this.val = val
     this.next = next
-
-}
+      }
 
  So, const node = new NodeClass(10)
  Means we are creating a node with data value 10 and next pointer to null.
@@ -50,8 +49,6 @@ So each node can be represented by a class Node -
     function LinkedList(head = null) {
  
               this.head = null
-      
- 
  
      }
 
@@ -71,9 +68,7 @@ So each node can be represented by a class Node -
 
     const linkedlist = new LinkedList(node1)
     
-
-
-#2. Printing the Linked List
+# Printing the Linked List
 
     function LinkedList(head = null){
 
