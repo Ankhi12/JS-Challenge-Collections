@@ -91,6 +91,26 @@ Inspiraton -
 1. [freeCodeCamp](https://www.freecodecamp.org/news/implementing-a-linked-list-in-javascript/)
 
 
+Queue
+
+A data structure which follow First In First Out sequence.
+
+Important Operations -
+  1. Enqueue 
+  2. Dequeue
+  
+ Enqueue - Meaning inserting elements at the end -
+ 
+ ![Capture](https://user-images.githubusercontent.com/124775002/228909897-ae26a5a2-a383-4fa0-bed0-df00bedd81cc.PNG)
+
+Dequeue - Meaning deleting elements from the front -
+
+![image](https://user-images.githubusercontent.com/124775002/228910318-d942af52-ff03-4067-ae7b-8deae41adc34.png)
+
+
+Next - Type of Queues
+
+
       
       
       
