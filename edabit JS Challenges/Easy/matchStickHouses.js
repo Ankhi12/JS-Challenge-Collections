@@ -1,5 +1,5 @@
 function matchstickHouses(num){
-    if(!num){
+    if(!num || num < 0){
         return 0
     }
     else {
